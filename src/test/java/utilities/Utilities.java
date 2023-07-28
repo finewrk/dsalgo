@@ -13,14 +13,7 @@ public class Utilities {
 	
 	public static WebDriver driver;
 	
-	//1. Design pattern - page object model or page factory
-	//2. preconditions check
-	//3. wait statements
-	//4. Exception handling
-	//5. Reporting
-	
-	//prop_pageName_ElementName_Type
-	//prop_login_userName_txt
+
 /**
  * @author vijayabharathi
  * @purpose : This is a method which will accept WebElement and perform click action
