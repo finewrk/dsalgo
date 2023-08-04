@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import utilities.ConfigReader;
 import utilities.DriverFactory;
 import utilities.Loggers;
 import utilities.WebUtility;
@@ -28,8 +29,11 @@ public class Launch_SD {
 	@Given("open portal link")
 
 	public void open_portal_link() {
-		String URL1 = "https://dsportalapp.herokuapp.com";
-		driver.get(URL1);
+		/*
+		 * String URL1 = "https://dsportalapp.herokuapp.com"; driver.get(URL1);
+		 */
+		
+		driver.get(ConfigReader.getApplicationUrl());
 		Loggers.info("Opening Home Page");
 
 	}

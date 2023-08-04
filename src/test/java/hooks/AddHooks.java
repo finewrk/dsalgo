@@ -10,15 +10,18 @@ import org.openqa.selenium.TakesScreenshot;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
+import utilities.ConfigReader;
 import utilities.DriverFactory;
 //import utilities.LoggerLoad;
 public class AddHooks  {
 		@Before 
 		
-	    public static void setUp() {
+	    public static void setUp() throws Throwable  {
+			
 			
 			DriverFactory.getDriver();
 			DriverFactory.setUpDriver();
+			ConfigReader.loadConfig();
 	     
 	    
 	    }
