@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import utilities.Constant;
+
 
 public class LaunchPage {
 
@@ -16,14 +18,16 @@ public class LaunchPage {
 	@FindBy(xpath = "//button[text()='Get Started']")
 	WebElement getstarted;
 
+	@FindBy(className =  "navbar-brand") WebElement homePageTitle;
+	
 	public void clickgetstarted() {
 		getstarted.click();
 
 	}
 
 	public String gethomepagetitle() {
-		return "NumpyNinja";
+		return homePageTitle.getText();
 
 	}
-
+	
 }
