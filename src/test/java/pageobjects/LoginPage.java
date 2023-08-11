@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import stepdefinition.Base;
 
-public class LoginPage extends Base {
+public class LoginPage {
 	public LoginPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
