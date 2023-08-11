@@ -16,20 +16,25 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
 
-@DS_1
+@DS2_register
 
-Feature: Preparing for the Interview(DsAlgo)
-  I want to use this template for my feature file
-
-  @tag1
-  Scenario: Launch the Websites
-    Given Open Chrome Browser
-    Given open portal link
-    When I click on get started
-    Then the landing page is HOME Page
-
-
-
-   
+Feature: feature to test new user Registration
+ Scenario Outline: user navigate to registration page 
+  Given user click registration link   
+  When user enter username,password,confirm password from given "<sheetname>" and <rowno> 
+  Then user click register button with expected message
+         
+  Examples:
+|sheetname |rowno |
+|Sheet1    |0     |
+|Sheet1    |1     |
+|Sheet1    |2     |
+|Sheet1    |3     |
+|Sheet1    |4     |
+|Sheet1    |5     |
+|Sheet1    |6     |
+|Sheet1    |7     |
+|Sheet1    |8     |
+|Sheet1    |9     |
+|Sheet1    |10    |
