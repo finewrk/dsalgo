@@ -1,5 +1,6 @@
 package utilities;
 
+import org.testng.annotations.AfterMethod;
 import java.time.Duration;
 import java.util.ResourceBundle;
 
@@ -18,16 +19,16 @@ public class DriverFactory {
 	static ResourceBundle rb; // for reading properties file
 	static String br; //to store browser name
 
-	private static WebDriver getchromeDriver() {
+	public static WebDriver getchromeDriver() {
 		System.out.print("Driver Empty");
 		/*
 		 * rb=ResourceBundle.getBundle("config"); br=rb.getString("browser");
 		 * if(br.equals("CHROME")) {
 		 */
 
-			WebDriverManager.chromedriver().setup();
-			driver=new ChromeDriver();
-
+//		System.setProperty("webdriver.chrome.driver", "C:\\Users\\limna\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		WebDriverManager.chromedriver().setup();
+		driver=new ChromeDriver();		
 //		}
 		 
 		getDriver().manage().deleteAllCookies();
@@ -59,12 +60,13 @@ public class DriverFactory {
 		}
 		}
 
+	@AfterMethod
 	public static void tearDown() {
 		if(getDriver()!=null) {
-//			LoggerLoad.info("enter teardown");
-			//getDriver().close();
-			//getDriver().quit();
-			//driver=null;
+			Loggers.info("enter teardown");
+			getDriver().close();
+			getDriver().quit();
+			driver=null;
 		}
 		driver = null;
 		
