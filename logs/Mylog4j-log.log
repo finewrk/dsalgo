@@ -314,3 +314,2122 @@
 [INFO ] 2023-08-11 00:42:59.426 [main] Loggers - User enter registration credentials
 [INFO ] 2023-08-11 00:42:59.549 [main] Loggers - New Account Created. You are logged in as <username>
 [INFO ] 2023-08-11 00:43:00.402 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:29.453 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 14:54:30.203 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 14:54:31.332 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 14:54:31.350 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 14:54:34.057 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 14:54:34.613 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 14:54:34.614 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 14:54:35.323 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 14:54:35.869 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 14:54:36.396 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 14:54:36.397 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 14:54:37.044 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 14:54:37.477 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 14:54:37.849 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 14:54:37.849 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 14:54:38.726 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 14:54:39.148 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 14:54:39.148 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 14:54:40.127 [main] Loggers - integer input0
+[INFO ] 2023-08-11 14:54:40.127 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:40.283 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 14:54:40.744 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:41.179 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 14:54:41.245 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 14:54:41.570 [main] Loggers - integer input1
+[INFO ] 2023-08-11 14:54:41.571 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:41.790 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 14:54:42.240 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:42.574 [main] Loggers - 
+[INFO ] 2023-08-11 14:54:42.652 [main] Loggers - 
+[INFO ] 2023-08-11 14:54:42.935 [main] Loggers - integer input2
+[INFO ] 2023-08-11 14:54:42.935 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:43.050 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 14:54:43.532 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:43.870 [main] Loggers - 
+[INFO ] 2023-08-11 14:54:43.917 [main] Loggers - 
+[INFO ] 2023-08-11 14:54:44.217 [main] Loggers - integer input3
+[INFO ] 2023-08-11 14:54:44.218 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:44.418 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 14:54:45.088 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:45.732 [main] Loggers - integer input4
+[INFO ] 2023-08-11 14:54:45.733 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:45.973 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 14:54:46.718 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:47.484 [main] Loggers - integer input5
+[INFO ] 2023-08-11 14:54:47.485 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:47.708 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 14:54:48.924 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:50.042 [main] Loggers - integer input6
+[INFO ] 2023-08-11 14:54:50.043 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:50.202 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 14:54:51.249 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:52.320 [main] Loggers - integer input7
+[INFO ] 2023-08-11 14:54:52.321 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:52.526 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 14:54:53.340 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:54.290 [main] Loggers - integer input8
+[INFO ] 2023-08-11 14:54:54.290 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:54.411 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 14:54:55.046 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:55.694 [main] Loggers - integer input9
+[INFO ] 2023-08-11 14:54:55.695 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:55.809 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 14:54:56.895 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 14:54:57.502 [main] Loggers - integer input10
+[INFO ] 2023-08-11 14:54:57.503 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 14:54:57.650 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-11 14:54:58.426 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:38:22.760 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 21:38:23.360 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 21:38:24.547 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 21:38:24.597 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 21:38:26.637 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 21:38:26.937 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:38:26.937 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:38:27.449 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:38:27.793 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 21:38:28.192 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:38:28.192 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:38:28.799 [main] Loggers - null
+[INFO ] 2023-08-11 21:56:20.958 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 21:56:20.978 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 21:56:21.954 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 21:56:22.143 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 21:56:23.883 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 21:56:23.901 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 21:56:24.153 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 21:56:24.182 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 21:56:28.935 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 21:56:29.033 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 21:56:29.551 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:29.552 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:56:29.648 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:29.648 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:56:30.549 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:30.803 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:31.302 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 21:56:31.621 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 21:56:32.181 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:32.182 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:56:32.358 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:32.358 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:56:33.119 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:33.709 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 21:56:33.723 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:34.428 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:34.428 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:56:34.460 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 21:56:34.911 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:34.911 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 21:56:35.794 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 21:56:36.444 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 21:56:36.524 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:36.525 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 21:56:37.088 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 21:56:37.089 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 21:56:38.024 [main] Loggers - integer input0
+[INFO ] 2023-08-11 21:56:38.025 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:38.359 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:38.961 [main] Loggers - integer input0
+[INFO ] 2023-08-11 21:56:38.962 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:39.199 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:39.229 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:39.838 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:39.891 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:40.511 [main] Loggers - integer input1
+[INFO ] 2023-08-11 21:56:40.511 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:40.651 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:41.196 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:42.280 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:43.266 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:43.403 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:44.216 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:44.535 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:44.586 [main] Loggers - integer input1
+[INFO ] 2023-08-11 21:56:44.587 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:45.018 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:45.390 [main] Loggers - integer input2
+[INFO ] 2023-08-11 21:56:45.390 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:45.570 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:46.678 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:46.900 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:47.063 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:47.107 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:47.922 [main] Loggers - integer input3
+[INFO ] 2023-08-11 21:56:47.922 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:48.259 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:48.580 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:48.800 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:49.534 [main] Loggers - integer input2
+[INFO ] 2023-08-11 21:56:49.535 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:49.714 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 21:56:49.782 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:50.993 [main] Loggers - integer input4
+[INFO ] 2023-08-11 21:56:50.993 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:51.108 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:51.863 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:51.971 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:52.287 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:52.614 [main] Loggers - 
+[INFO ] 2023-08-11 21:56:53.191 [main] Loggers - integer input3
+[INFO ] 2023-08-11 21:56:53.193 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:53.290 [main] Loggers - integer input5
+[INFO ] 2023-08-11 21:56:53.291 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:53.691 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:53.744 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:54.733 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:54.853 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:55.843 [main] Loggers - integer input6
+[INFO ] 2023-08-11 21:56:55.843 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:56.091 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:56.105 [main] Loggers - integer input4
+[INFO ] 2023-08-11 21:56:56.105 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:56.245 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:57.178 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:57.192 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:56:58.101 [main] Loggers - integer input7
+[INFO ] 2023-08-11 21:56:58.102 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:58.233 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:58.720 [main] Loggers - integer input5
+[INFO ] 2023-08-11 21:56:58.720 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:56:58.962 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:56:59.890 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:00.183 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:01.230 [main] Loggers - integer input8
+[INFO ] 2023-08-11 21:57:01.231 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:01.401 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:57:01.754 [main] Loggers - integer input6
+[INFO ] 2023-08-11 21:57:01.754 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:01.976 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:57:02.396 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:02.982 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:03.775 [main] Loggers - integer input9
+[INFO ] 2023-08-11 21:57:03.775 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:04.050 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:57:05.269 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:05.717 [main] Loggers - integer input7
+[INFO ] 2023-08-11 21:57:05.718 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:05.922 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:57:07.156 [main] Loggers - integer input10
+[INFO ] 2023-08-11 21:57:07.157 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:07.295 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-11 21:57:08.071 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:08.342 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:09.158 [main] Loggers - integer input8
+[INFO ] 2023-08-11 21:57:09.158 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:09.360 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:57:10.414 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:11.644 [main] Loggers - integer input9
+[INFO ] 2023-08-11 21:57:11.645 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:11.755 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 21:57:12.550 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 21:57:13.334 [main] Loggers - integer input10
+[INFO ] 2023-08-11 21:57:13.334 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 21:57:13.529 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-11 21:57:14.818 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:03:26.409 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 22:03:27.270 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 22:03:28.823 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 22:03:28.853 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 22:03:34.502 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 22:03:42.735 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:03:42.735 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:03:44.208 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:03:44.931 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 22:03:46.311 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:03:46.311 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:03:46.986 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:03:47.810 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 22:03:48.336 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:03:48.337 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:03:49.579 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 22:03:50.169 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:03:50.169 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 22:03:51.332 [main] Loggers - integer input0
+[INFO ] 2023-08-11 22:03:51.332 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:03:51.632 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:03:52.297 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:03:52.916 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:03:53.005 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:03:53.563 [main] Loggers - integer input1
+[INFO ] 2023-08-11 22:03:53.564 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:03:53.784 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:03:54.479 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:03:55.328 [main] Loggers - 
+[INFO ] 2023-08-11 22:03:55.430 [main] Loggers - 
+[INFO ] 2023-08-11 22:03:55.916 [main] Loggers - integer input2
+[INFO ] 2023-08-11 22:03:55.917 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:03:56.188 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:03:57.269 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:03:58.105 [main] Loggers - 
+[INFO ] 2023-08-11 22:03:58.233 [main] Loggers - 
+[INFO ] 2023-08-11 22:03:59.126 [main] Loggers - integer input3
+[INFO ] 2023-08-11 22:03:59.126 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:03:59.429 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:04:01.058 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:04:02.340 [main] Loggers - integer input4
+[INFO ] 2023-08-11 22:04:02.340 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:04:02.620 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:04:04.089 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:04:05.172 [main] Loggers - integer input5
+[INFO ] 2023-08-11 22:04:05.173 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:04:05.437 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:04:06.319 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:04:07.282 [main] Loggers - integer input6
+[INFO ] 2023-08-11 22:04:07.282 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:04:07.479 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:04:08.251 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:04:08.926 [main] Loggers - integer input7
+[INFO ] 2023-08-11 22:04:08.926 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:04:09.098 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:04:10.016 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:04:10.682 [main] Loggers - integer input8
+[INFO ] 2023-08-11 22:04:10.682 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:04:10.815 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:04:11.498 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:04:12.175 [main] Loggers - integer input9
+[INFO ] 2023-08-11 22:04:12.177 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:04:12.272 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:04:13.220 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:04:14.157 [main] Loggers - integer input10
+[INFO ] 2023-08-11 22:04:14.162 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:04:14.322 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-11 22:04:15.363 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:05:49.504 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 22:05:50.220 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 22:05:51.466 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 22:05:51.484 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 22:05:54.327 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 22:05:54.978 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:05:54.979 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:05:55.914 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:05:56.687 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 22:05:57.335 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:05:57.336 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:05:57.983 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:05:58.543 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 22:05:58.955 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:05:58.955 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:06:00.429 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 22:06:01.105 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:06:01.106 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 22:06:02.431 [main] Loggers - integer input0
+[INFO ] 2023-08-11 22:06:02.431 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:02.588 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:06:03.080 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:03.465 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:06:03.531 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:06:03.970 [main] Loggers - integer input1
+[INFO ] 2023-08-11 22:06:03.970 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:04.216 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:06:04.809 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:05.066 [main] Loggers - 
+[INFO ] 2023-08-11 22:06:05.100 [main] Loggers - 
+[INFO ] 2023-08-11 22:06:05.355 [main] Loggers - integer input2
+[INFO ] 2023-08-11 22:06:05.356 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:05.498 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:06:06.325 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:06.760 [main] Loggers - 
+[INFO ] 2023-08-11 22:06:06.830 [main] Loggers - 
+[INFO ] 2023-08-11 22:06:07.120 [main] Loggers - integer input3
+[INFO ] 2023-08-11 22:06:07.121 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:07.294 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:06:07.911 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:08.704 [main] Loggers - integer input4
+[INFO ] 2023-08-11 22:06:08.705 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:08.899 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:06:12.098 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:14.467 [main] Loggers - integer input5
+[INFO ] 2023-08-11 22:06:14.470 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:14.695 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:06:16.405 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:17.267 [main] Loggers - integer input6
+[INFO ] 2023-08-11 22:06:17.268 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:17.422 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:06:18.213 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:19.269 [main] Loggers - integer input7
+[INFO ] 2023-08-11 22:06:19.269 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:19.461 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:06:20.722 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:21.927 [main] Loggers - integer input8
+[INFO ] 2023-08-11 22:06:21.927 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:22.061 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:06:23.067 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:23.850 [main] Loggers - integer input9
+[INFO ] 2023-08-11 22:06:23.850 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:23.974 [main] Loggers - password_mismatch:The two password fields didn't match.
+[INFO ] 2023-08-11 22:06:24.581 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:06:25.058 [main] Loggers - integer input10
+[INFO ] 2023-08-11 22:06:25.059 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:06:25.164 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-11 22:06:25.753 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:44:40.735 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 22:44:41.826 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 22:44:44.110 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 22:44:44.160 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 22:44:49.614 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 22:44:50.736 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:44:50.737 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:44:52.035 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:44:52.838 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 22:44:53.439 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:44:53.440 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:44:54.194 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:44:54.713 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 22:44:55.138 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:44:55.139 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:44:56.224 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 22:44:56.707 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:44:56.708 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 22:44:57.934 [main] Loggers - integer input0
+[INFO ] 2023-08-11 22:44:57.936 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:44:58.159 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:44:58.673 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:44:59.225 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:44:59.281 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:44:59.773 [main] Loggers - integer input1
+[INFO ] 2023-08-11 22:44:59.774 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:44:59.959 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:45:00.591 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:01.191 [main] Loggers - 
+[INFO ] 2023-08-11 22:45:01.323 [main] Loggers - 
+[INFO ] 2023-08-11 22:45:01.769 [main] Loggers - integer input2
+[INFO ] 2023-08-11 22:45:01.769 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:02.034 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:45:02.936 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:03.603 [main] Loggers - 
+[INFO ] 2023-08-11 22:45:03.780 [main] Loggers - 
+[INFO ] 2023-08-11 22:45:04.650 [main] Loggers - integer input3
+[INFO ] 2023-08-11 22:45:04.652 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:04.934 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-11 22:45:06.233 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:08.155 [main] Loggers - integer input4
+[INFO ] 2023-08-11 22:45:08.156 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:08.510 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-11 22:45:10.044 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:11.864 [main] Loggers - integer input5
+[INFO ] 2023-08-11 22:45:11.866 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:12.057 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-11 22:45:13.533 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:14.397 [main] Loggers - integer input6
+[INFO ] 2023-08-11 22:45:14.397 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:14.580 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-11 22:45:15.407 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:16.165 [main] Loggers - integer input7
+[INFO ] 2023-08-11 22:45:16.166 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:16.316 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-11 22:45:17.164 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:17.962 [main] Loggers - integer input8
+[INFO ] 2023-08-11 22:45:17.963 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:18.113 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-11 22:45:19.221 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:19.974 [main] Loggers - integer input9
+[INFO ] 2023-08-11 22:45:19.974 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:20.071 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-11 22:45:21.008 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:45:21.754 [main] Loggers - integer input10
+[INFO ] 2023-08-11 22:45:21.754 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:45:21.874 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-11 22:45:22.780 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:48:38.077 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 22:48:38.979 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 22:48:40.421 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 22:48:40.458 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 22:48:43.790 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 22:48:44.203 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:48:44.203 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:48:45.119 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:48:45.797 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 22:48:46.411 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:48:46.416 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:48:47.289 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:48:48.035 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 22:48:48.588 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:48:48.588 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 22:48:49.788 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 22:48:50.369 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 22:48:50.370 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 22:48:51.626 [main] Loggers - integer input0
+[INFO ] 2023-08-11 22:48:51.626 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:48:51.927 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:48:52.462 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:48:52.977 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:48:53.025 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:48:53.425 [main] Loggers - integer input1
+[INFO ] 2023-08-11 22:48:53.425 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:48:53.618 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:48:54.163 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:48:54.835 [main] Loggers - 
+[INFO ] 2023-08-11 22:48:54.989 [main] Loggers - 
+[INFO ] 2023-08-11 22:48:56.731 [main] Loggers - integer input2
+[INFO ] 2023-08-11 22:48:56.734 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:48:57.019 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 22:48:57.992 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:48:58.457 [main] Loggers - 
+[INFO ] 2023-08-11 22:48:58.524 [main] Loggers - 
+[INFO ] 2023-08-11 22:48:59.949 [main] Loggers - integer input3
+[INFO ] 2023-08-11 22:48:59.950 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:00.458 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-11 22:49:02.949 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:49:05.173 [main] Loggers - integer input4
+[INFO ] 2023-08-11 22:49:05.173 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:05.428 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-11 22:49:06.697 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:49:07.995 [main] Loggers - integer input5
+[INFO ] 2023-08-11 22:49:07.995 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:08.128 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-11 22:49:08.742 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:49:10.018 [main] Loggers - integer input6
+[INFO ] 2023-08-11 22:49:10.024 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:10.161 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-11 22:49:10.952 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:49:12.283 [main] Loggers - integer input7
+[INFO ] 2023-08-11 22:49:12.283 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:12.388 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-11 22:49:13.221 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:49:14.567 [main] Loggers - integer input8
+[INFO ] 2023-08-11 22:49:14.568 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:14.769 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-11 22:49:15.821 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:49:17.151 [main] Loggers - integer input9
+[INFO ] 2023-08-11 22:49:17.152 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:17.268 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-11 22:49:18.095 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 22:49:19.256 [main] Loggers - integer input10
+[INFO ] 2023-08-11 22:49:19.256 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-11 22:49:19.345 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-11 22:49:20.307 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-11 23:05:04.312 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 23:05:05.664 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:05:05.664 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:05:06.884 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:05:07.672 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 23:05:08.325 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:05:08.326 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:05:09.143 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:05:09.673 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 23:05:10.116 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:05:10.117 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:05:11.223 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 23:05:11.825 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:05:11.826 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 23:05:59.402 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 23:06:00.015 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:06:00.016 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:06:01.008 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:06:01.705 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 23:06:02.422 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:06:02.423 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:06:03.170 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:06:03.712 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 23:06:04.085 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:06:04.085 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:06:05.163 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 23:06:05.715 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:06:05.716 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 23:08:08.187 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 23:08:08.821 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 23:08:09.920 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 23:08:09.944 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 23:08:12.349 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 23:08:12.697 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:08:12.698 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:08:13.300 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:08:13.686 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 23:08:14.074 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:08:14.075 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:08:14.579 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:08:14.946 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 23:08:15.227 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:08:15.228 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:08:16.014 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 23:08:16.473 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:08:16.473 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-11 23:10:20.726 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-11 23:10:21.173 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-11 23:10:22.231 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-11 23:10:22.252 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-11 23:10:24.755 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-11 23:10:25.277 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:10:25.278 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:10:26.174 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:10:26.701 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-11 23:10:27.143 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:10:27.143 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:10:27.708 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-11 23:10:28.100 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-11 23:10:28.426 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:10:28.426 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-11 23:10:29.247 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-11 23:10:29.659 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-11 23:10:29.659 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-12 15:02:26.558 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-12 15:02:27.343 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-12 15:02:29.352 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-12 15:02:29.409 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-12 15:02:33.911 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-12 15:02:34.507 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:02:34.508 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-12 15:02:35.730 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-12 15:02:36.424 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-12 15:02:37.026 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:02:37.026 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-12 15:02:37.948 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-12 15:02:38.618 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-12 15:02:39.257 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:02:39.257 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-12 15:02:40.519 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-12 15:02:40.922 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:02:40.923 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-12 15:05:25.228 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-12 15:05:25.966 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-12 15:05:28.003 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-12 15:05:28.016 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-12 15:05:31.172 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-12 15:05:31.636 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:05:31.636 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-12 15:05:32.453 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-12 15:05:32.853 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-12 15:05:33.229 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:05:33.229 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-12 15:05:34.487 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-12 15:05:35.702 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-12 15:05:36.094 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:05:36.095 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-12 15:05:37.019 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-12 15:05:37.425 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-12 15:05:37.427 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-14 14:15:18.171 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-14 14:15:18.552 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-14 14:15:19.318 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-14 14:15:19.336 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-14 14:15:20.700 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-14 14:15:20.943 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:15:20.943 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:15:21.400 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:15:21.693 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-14 14:15:21.953 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:15:21.954 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:15:22.340 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:15:22.626 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-14 14:15:22.831 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:15:22.832 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:15:23.389 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-14 14:15:23.622 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:15:23.622 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-14 14:15:24.119 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-14 14:15:24.121 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-14 14:15:26.563 [main] Loggers - select Queue menu from dropdown
+[INFO ] 2023-08-14 14:15:26.566 [main] Loggers - select queuein python
+[INFO ] 2023-08-14 14:15:28.472 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:28.473 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:28.729 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:29.044 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:29.045 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:29.253 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:29.253 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:15:29.329 [main] Loggers - select using collections
+[INFO ] 2023-08-14 14:15:29.850 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:29.853 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:30.155 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:30.534 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:30.536 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:30.802 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:30.803 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:15:30.922 [main] Loggers - select using arrays
+[INFO ] 2023-08-14 14:15:31.544 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:31.547 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:31.900 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:32.307 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:32.308 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:32.643 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:32.644 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:15:32.828 [main] Loggers - select queue operation
+[INFO ] 2023-08-14 14:15:33.508 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:33.510 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:33.867 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:34.280 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:15:34.282 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:15:34.605 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:15:34.606 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:15:34.777 [main] Loggers - select practice questions in queue
+[INFO ] 2023-08-14 14:23:17.992 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-14 14:23:18.459 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-14 14:23:19.539 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-14 14:23:19.564 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-14 14:23:25.578 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-14 14:23:25.851 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:23:25.851 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:23:26.513 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:23:30.962 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-14 14:23:31.337 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:23:31.338 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:23:31.900 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:23:36.176 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-14 14:23:36.462 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:23:36.463 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:23:41.091 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-14 14:23:41.419 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:23:41.420 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-14 14:49:32.314 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-14 14:49:32.707 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-14 14:49:33.567 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-14 14:49:33.585 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-14 14:49:35.221 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-14 14:49:35.502 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:49:35.503 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:49:36.006 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:49:36.284 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-14 14:49:36.556 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:49:36.557 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:49:36.969 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:49:37.255 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-14 14:49:37.472 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:49:37.472 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:49:38.068 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-14 14:49:38.323 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:49:38.323 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-14 14:52:27.243 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-14 14:52:27.622 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-14 14:52:28.412 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-14 14:52:28.427 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-14 14:52:29.454 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-14 14:52:29.632 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:52:29.632 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:52:30.029 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:52:30.276 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-14 14:52:30.501 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:52:30.501 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:52:30.857 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-14 14:52:31.120 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-14 14:52:31.315 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:52:31.315 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-14 14:52:31.866 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-14 14:52:32.116 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-14 14:52:32.116 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-14 14:52:32.606 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-14 14:52:32.607 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-14 14:52:35.026 [main] Loggers - select Queue menu from dropdown
+[INFO ] 2023-08-14 14:52:35.029 [main] Loggers - select queuein python
+[INFO ] 2023-08-14 14:52:36.971 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:36.975 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:37.246 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:37.567 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:37.568 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:37.845 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:37.847 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:52:37.983 [main] Loggers - select using collections
+[INFO ] 2023-08-14 14:52:38.705 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:38.711 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:39.202 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:39.683 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:39.685 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:40.149 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:40.151 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:52:40.384 [main] Loggers - select using arrays
+[INFO ] 2023-08-14 14:52:41.131 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:41.132 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:41.535 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:42.012 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:42.014 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:42.422 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:42.423 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:52:42.635 [main] Loggers - select queue operation
+[INFO ] 2023-08-14 14:52:43.271 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:43.273 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:43.671 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:44.102 [main] Loggers - queue try button click
+[INFO ] 2023-08-14 14:52:44.104 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-14 14:52:44.495 [main] Loggers - queue run button click
+[INFO ] 2023-08-14 14:52:44.498 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-14 14:52:44.670 [main] Loggers - select practice questions in queue
+[INFO ] 2023-08-14 14:52:45.170 [main] Loggers - select using arrays
+[INFO ] 2023-08-14 14:54:36.063 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:13:31.369 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:13:31.902 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:13:33.116 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:13:33.135 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:13:34.063 [main] Loggers - integer input0
+[INFO ] 2023-08-15 22:13:34.064 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:36.809 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:13:37.348 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:37.895 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:13:37.943 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:13:38.638 [main] Loggers - integer input1
+[INFO ] 2023-08-15 22:13:38.639 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:38.817 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:13:39.410 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:39.857 [main] Loggers - 
+[INFO ] 2023-08-15 22:13:39.908 [main] Loggers - 
+[INFO ] 2023-08-15 22:13:40.674 [main] Loggers - integer input2
+[INFO ] 2023-08-15 22:13:40.675 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:40.864 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:13:41.449 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:41.813 [main] Loggers - 
+[INFO ] 2023-08-15 22:13:41.862 [main] Loggers - 
+[INFO ] 2023-08-15 22:13:42.596 [main] Loggers - integer input3
+[INFO ] 2023-08-15 22:13:42.597 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:42.793 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-15 22:13:43.395 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:45.115 [main] Loggers - integer input4
+[INFO ] 2023-08-15 22:13:45.115 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:45.295 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-15 22:13:45.917 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:47.486 [main] Loggers - integer input5
+[INFO ] 2023-08-15 22:13:47.486 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:47.606 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-15 22:13:48.341 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:49.955 [main] Loggers - integer input6
+[INFO ] 2023-08-15 22:13:49.955 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:50.085 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-15 22:13:50.789 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:52.871 [main] Loggers - integer input7
+[INFO ] 2023-08-15 22:13:52.872 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:53.061 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-15 22:13:53.792 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:55.912 [main] Loggers - integer input8
+[INFO ] 2023-08-15 22:13:55.912 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:56.137 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-15 22:13:57.000 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:13:59.278 [main] Loggers - integer input9
+[INFO ] 2023-08-15 22:13:59.279 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:13:59.382 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-15 22:14:00.153 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:14:01.705 [main] Loggers - integer input10
+[INFO ] 2023-08-15 22:14:01.708 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:14:01.829 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-15 22:14:02.511 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:14:03.906 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-15 22:14:04.449 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:14:04.450 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:14:05.200 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:14:05.632 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-15 22:14:06.124 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:14:06.124 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:14:06.690 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:14:07.052 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-15 22:14:07.398 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:14:07.399 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:14:08.286 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-15 22:14:08.707 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:14:08.707 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-15 22:14:09.422 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:14:09.424 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:14:12.071 [main] Loggers - select Queue menu from dropdown
+[INFO ] 2023-08-15 22:14:12.072 [main] Loggers - select queuein python
+[INFO ] 2023-08-15 22:14:14.515 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:14.517 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:15.292 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:15.897 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:15.899 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:16.467 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:16.470 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:14:16.624 [main] Loggers - select using collections
+[INFO ] 2023-08-15 22:14:17.614 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:17.616 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:18.160 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:18.711 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:18.713 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:19.279 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:19.281 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:14:19.396 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:14:20.464 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:20.466 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:21.020 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:21.589 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:21.594 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:22.077 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:22.079 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:14:22.284 [main] Loggers - select queue operation
+[INFO ] 2023-08-15 22:14:23.241 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:23.246 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:23.781 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:24.364 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:24.369 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:24.895 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:14:24.896 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:14:25.023 [main] Loggers - select practice questions in queue
+[INFO ] 2023-08-15 22:14:25.540 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:14:25.540 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:14:27.924 [main] Loggers - select Tree menu from dropdown
+[INFO ] 2023-08-15 22:14:27.925 [main] Loggers - select treein python
+[INFO ] 2023-08-15 22:14:28.397 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:28.398 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:28.922 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:28.924 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:29.344 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:14:29.860 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:29.862 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:14:30.586 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:14:30.587 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:17:44.674 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:17:45.240 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:17:46.559 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:17:46.581 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:17:47.744 [main] Loggers - integer input0
+[INFO ] 2023-08-15 22:17:47.744 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:17:50.118 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:17:50.543 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:17:51.049 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:17:51.090 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:17:51.701 [main] Loggers - integer input1
+[INFO ] 2023-08-15 22:17:51.704 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:17:51.891 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:17:52.373 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:17:52.741 [main] Loggers - 
+[INFO ] 2023-08-15 22:17:52.795 [main] Loggers - 
+[INFO ] 2023-08-15 22:17:53.492 [main] Loggers - integer input2
+[INFO ] 2023-08-15 22:17:53.492 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:17:53.664 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:17:54.251 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:17:54.602 [main] Loggers - 
+[INFO ] 2023-08-15 22:17:54.661 [main] Loggers - 
+[INFO ] 2023-08-15 22:17:55.315 [main] Loggers - integer input3
+[INFO ] 2023-08-15 22:17:55.315 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:17:55.468 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-15 22:17:55.989 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:17:57.465 [main] Loggers - integer input4
+[INFO ] 2023-08-15 22:17:57.465 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:17:57.589 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-15 22:17:58.121 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:17:59.522 [main] Loggers - integer input5
+[INFO ] 2023-08-15 22:17:59.523 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:17:59.624 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-15 22:18:00.197 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:18:01.566 [main] Loggers - integer input6
+[INFO ] 2023-08-15 22:18:01.566 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:18:01.674 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-15 22:18:02.187 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:18:03.768 [main] Loggers - integer input7
+[INFO ] 2023-08-15 22:18:03.769 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:18:03.911 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-15 22:18:04.795 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:18:06.823 [main] Loggers - integer input8
+[INFO ] 2023-08-15 22:18:06.824 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:18:06.912 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-15 22:18:07.561 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:18:09.326 [main] Loggers - integer input9
+[INFO ] 2023-08-15 22:18:09.326 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:18:09.494 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-15 22:18:10.288 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:18:11.869 [main] Loggers - integer input10
+[INFO ] 2023-08-15 22:18:11.870 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:18:11.986 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-15 22:18:12.569 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:18:13.793 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-15 22:18:14.285 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:18:14.285 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:18:14.990 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:18:15.429 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-15 22:18:15.988 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:18:15.989 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:18:16.566 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:18:16.907 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-15 22:18:17.271 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:18:17.271 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:18:18.054 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-15 22:18:18.513 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:18:18.514 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-15 22:18:19.188 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:18:19.192 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:18:21.848 [main] Loggers - select Queue menu from dropdown
+[INFO ] 2023-08-15 22:18:21.850 [main] Loggers - select queuein python
+[INFO ] 2023-08-15 22:18:24.380 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:24.381 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:25.027 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:25.664 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:25.665 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:26.210 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:26.211 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:18:26.332 [main] Loggers - select using collections
+[INFO ] 2023-08-15 22:18:27.229 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:27.230 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:27.910 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:28.464 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:28.467 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:28.941 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:28.943 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:18:29.112 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:18:30.080 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:30.083 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:30.716 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:31.321 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:31.322 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:31.853 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:31.856 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:18:32.023 [main] Loggers - select queue operation
+[INFO ] 2023-08-15 22:18:32.876 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:32.880 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:33.434 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:34.041 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:34.048 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:34.530 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:18:34.531 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:18:34.660 [main] Loggers - select practice questions in queue
+[INFO ] 2023-08-15 22:18:35.147 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:18:35.149 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:18:37.481 [main] Loggers - select Tree menu from dropdown
+[INFO ] 2023-08-15 22:18:37.482 [main] Loggers - select treein python
+[INFO ] 2023-08-15 22:18:37.971 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:37.972 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:38.529 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:38.531 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:38.963 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:18:39.545 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:39.546 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:18:40.294 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:18:40.295 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:33:14.715 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:33:15.471 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:33:16.666 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:33:16.689 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:33:17.597 [main] Loggers - integer input0
+[INFO ] 2023-08-15 22:33:17.598 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:19.904 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:33:20.392 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:20.935 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:33:20.979 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:33:21.661 [main] Loggers - integer input1
+[INFO ] 2023-08-15 22:33:21.662 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:21.842 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:33:22.323 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:22.672 [main] Loggers - 
+[INFO ] 2023-08-15 22:33:22.716 [main] Loggers - 
+[INFO ] 2023-08-15 22:33:23.457 [main] Loggers - integer input2
+[INFO ] 2023-08-15 22:33:23.457 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:23.603 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:33:24.102 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:24.408 [main] Loggers - 
+[INFO ] 2023-08-15 22:33:24.449 [main] Loggers - 
+[INFO ] 2023-08-15 22:33:25.096 [main] Loggers - integer input3
+[INFO ] 2023-08-15 22:33:25.097 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:25.263 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-15 22:33:25.824 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:27.319 [main] Loggers - integer input4
+[INFO ] 2023-08-15 22:33:27.322 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:27.463 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-15 22:33:27.998 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:29.347 [main] Loggers - integer input5
+[INFO ] 2023-08-15 22:33:29.347 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:29.452 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-15 22:33:29.977 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:31.450 [main] Loggers - integer input6
+[INFO ] 2023-08-15 22:33:31.450 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:31.565 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-15 22:33:32.172 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:33.904 [main] Loggers - integer input7
+[INFO ] 2023-08-15 22:33:33.904 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:34.100 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-15 22:33:35.153 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:36.875 [main] Loggers - integer input8
+[INFO ] 2023-08-15 22:33:36.875 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:36.987 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-15 22:33:37.668 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:39.680 [main] Loggers - integer input9
+[INFO ] 2023-08-15 22:33:39.681 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:39.796 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-15 22:33:40.422 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:41.857 [main] Loggers - integer input10
+[INFO ] 2023-08-15 22:33:41.858 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:33:41.932 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-15 22:33:42.558 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:33:43.764 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-15 22:33:44.217 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:33:44.218 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:33:45.026 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:33:45.360 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-15 22:33:45.808 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:33:45.809 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:33:46.368 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:33:46.727 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-15 22:33:47.054 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:33:47.057 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:33:47.800 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-15 22:33:48.261 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:33:48.261 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-15 22:33:48.948 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:33:48.950 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:33:51.620 [main] Loggers - select Queue menu from dropdown
+[INFO ] 2023-08-15 22:33:51.621 [main] Loggers - select queuein python
+[INFO ] 2023-08-15 22:33:54.656 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:33:54.657 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:33:55.277 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:33:55.855 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:33:55.858 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:33:56.374 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:33:56.378 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:33:56.607 [main] Loggers - select using collections
+[INFO ] 2023-08-15 22:33:57.661 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:33:57.663 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:33:58.298 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:33:58.875 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:33:58.879 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:33:59.409 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:33:59.411 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:33:59.565 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:34:00.581 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:00.583 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:34:01.141 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:34:01.812 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:01.814 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:34:02.388 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:34:02.391 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:34:02.568 [main] Loggers - select queue operation
+[INFO ] 2023-08-15 22:34:03.515 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:03.517 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:34:04.057 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:34:04.629 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:04.631 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:34:05.116 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:34:05.118 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:34:05.263 [main] Loggers - select practice questions in queue
+[INFO ] 2023-08-15 22:34:05.756 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:34:05.761 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:34:08.143 [main] Loggers - select Tree menu from dropdown
+[INFO ] 2023-08-15 22:34:08.144 [main] Loggers - select treein python
+[INFO ] 2023-08-15 22:34:08.613 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:08.614 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:34:09.165 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:09.167 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:34:09.600 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:34:10.142 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:10.142 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:34:10.802 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:34:10.803 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:36:39.844 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:36:40.365 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:36:41.723 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:36:41.759 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:36:44.228 [main] Loggers - integer input0
+[INFO ] 2023-08-15 22:36:44.229 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:36:46.724 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:36:47.245 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:36:47.775 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:36:47.827 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:36:48.564 [main] Loggers - integer input1
+[INFO ] 2023-08-15 22:36:48.564 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:36:48.797 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:36:49.332 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:36:49.744 [main] Loggers - 
+[INFO ] 2023-08-15 22:36:49.817 [main] Loggers - 
+[INFO ] 2023-08-15 22:36:50.651 [main] Loggers - integer input2
+[INFO ] 2023-08-15 22:36:50.651 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:36:50.832 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:36:51.380 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:36:51.698 [main] Loggers - 
+[INFO ] 2023-08-15 22:36:51.749 [main] Loggers - 
+[INFO ] 2023-08-15 22:36:52.431 [main] Loggers - integer input3
+[INFO ] 2023-08-15 22:36:52.432 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:36:52.618 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-15 22:36:53.128 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:36:54.545 [main] Loggers - integer input4
+[INFO ] 2023-08-15 22:36:54.545 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:36:54.654 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-15 22:36:55.237 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:36:56.657 [main] Loggers - integer input5
+[INFO ] 2023-08-15 22:36:56.658 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:36:56.775 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-15 22:36:57.357 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:36:58.794 [main] Loggers - integer input6
+[INFO ] 2023-08-15 22:36:58.794 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:36:58.923 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-15 22:36:59.517 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:37:01.487 [main] Loggers - integer input7
+[INFO ] 2023-08-15 22:37:01.491 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:37:01.710 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-15 22:37:02.734 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:37:05.078 [main] Loggers - integer input8
+[INFO ] 2023-08-15 22:37:05.079 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:37:05.210 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-15 22:37:05.915 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:37:07.769 [main] Loggers - integer input9
+[INFO ] 2023-08-15 22:37:07.769 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:37:07.910 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-15 22:37:08.812 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:37:10.352 [main] Loggers - integer input10
+[INFO ] 2023-08-15 22:37:10.353 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-15 22:37:10.457 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-15 22:37:11.166 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-15 22:37:12.537 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-15 22:37:13.048 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:37:13.048 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:37:13.799 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:37:14.191 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-15 22:37:14.688 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:37:14.688 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:37:15.304 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:37:15.669 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-15 22:37:16.011 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:37:16.012 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:37:16.842 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-15 22:37:17.361 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:37:17.362 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-15 22:37:18.106 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:37:18.114 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:37:20.835 [main] Loggers - select Queue menu from dropdown
+[INFO ] 2023-08-15 22:37:20.836 [main] Loggers - select queuein python
+[INFO ] 2023-08-15 22:37:23.866 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:23.868 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:24.582 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:25.128 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:25.131 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:25.633 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:25.634 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:37:25.755 [main] Loggers - select using collections
+[INFO ] 2023-08-15 22:37:26.624 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:26.631 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:27.182 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:27.744 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:27.750 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:28.285 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:28.287 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:37:28.388 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:37:29.520 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:29.522 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:30.048 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:30.741 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:30.743 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:31.206 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:31.207 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:37:31.317 [main] Loggers - select queue operation
+[INFO ] 2023-08-15 22:37:32.255 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:32.258 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:32.823 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:33.414 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:33.417 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:33.880 [main] Loggers - queue run button click
+[INFO ] 2023-08-15 22:37:33.883 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-15 22:37:33.992 [main] Loggers - select practice questions in queue
+[INFO ] 2023-08-15 22:37:34.556 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-15 22:37:34.558 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-15 22:37:36.961 [main] Loggers - select Tree menu from dropdown
+[INFO ] 2023-08-15 22:37:36.963 [main] Loggers - select treein python
+[INFO ] 2023-08-15 22:37:37.580 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:37.582 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:38.193 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:38.194 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:38.727 [main] Loggers - select using arrays
+[INFO ] 2023-08-15 22:37:39.346 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:39.347 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:37:40.064 [main] Loggers - queue try button click
+[INFO ] 2023-08-15 22:37:40.066 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-15 22:39:06.888 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:39:07.586 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:39:08.770 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:39:08.804 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:40:14.584 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:40:15.265 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:40:16.533 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:40:16.560 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:40:20.395 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-15 22:40:20.852 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:40:20.854 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:40:21.636 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:40:22.205 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-15 22:40:22.639 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:40:22.640 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:40:23.225 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:40:23.660 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-15 22:40:23.991 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:40:23.991 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:40:24.813 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-15 22:40:25.234 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:40:25.234 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-15 22:51:11.269 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:51:11.816 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:51:13.454 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:51:13.486 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:51:14.310 [main] Loggers - user is in graph page
+[INFO ] 2023-08-15 22:51:15.246 [main] Loggers - user is in graphgraphpage
+[INFO ] 2023-08-15 22:51:15.780 [main] Loggers - user is in graph page
+[INFO ] 2023-08-15 22:51:16.722 [main] Loggers - user is in graph representations page
+[INFO ] 2023-08-15 22:51:17.787 [main] Loggers - User clicked on Graph Try here link
+[INFO ] 2023-08-15 22:51:18.224 [main] Loggers - user is in graph representations page
+[INFO ] 2023-08-15 22:51:18.680 [main] Loggers - User clicked on Graph Practice Questions link
+[INFO ] 2023-08-15 22:51:18.705 [main] Loggers - Title of current page is :Practice Questions
+[INFO ] 2023-08-15 22:51:22.031 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-15 22:51:22.463 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:51:22.463 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:51:23.215 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:51:23.690 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-15 22:51:24.105 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:51:24.105 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:51:24.676 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:51:25.124 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-15 22:51:25.447 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:51:25.448 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:51:26.284 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-15 22:51:26.691 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:51:26.691 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-15 22:54:35.158 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-15 22:54:35.799 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-15 22:54:36.978 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-15 22:54:37.000 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-15 22:54:37.469 [main] Loggers - user clicked on Data Structure dropdown
+[INFO ] 2023-08-15 22:54:37.994 [main] Loggers - user selected graph from data structures dropdown
+[INFO ] 2023-08-15 22:54:38.028 [main] Loggers - title of current page : NumpyNinja
+[INFO ] 2023-08-15 22:54:38.993 [main] Loggers - user is in graph page
+[INFO ] 2023-08-15 22:54:40.037 [main] Loggers - user is in graphgraphpage
+[INFO ] 2023-08-15 22:54:40.577 [main] Loggers - user is in graph page
+[INFO ] 2023-08-15 22:54:41.398 [main] Loggers - user is in graph representations page
+[INFO ] 2023-08-15 22:54:42.460 [main] Loggers - User clicked on Graph Try here link
+[INFO ] 2023-08-15 22:54:42.937 [main] Loggers - user is in graph representations page
+[INFO ] 2023-08-15 22:54:43.374 [main] Loggers - User clicked on Graph Practice Questions link
+[INFO ] 2023-08-15 22:54:43.402 [main] Loggers - Title of current page is :Practice Questions
+[INFO ] 2023-08-15 22:54:46.379 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-15 22:54:46.761 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:54:46.762 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:54:47.467 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:54:47.873 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-15 22:54:48.333 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:54:48.333 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:54:48.937 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-15 22:54:49.314 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-15 22:54:49.634 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:54:49.634 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-15 22:54:50.518 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-15 22:54:50.910 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-15 22:54:50.911 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-16 12:39:49.764 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-16 12:39:50.375 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-16 12:39:51.269 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-16 12:39:51.298 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-16 12:39:53.417 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-16 12:39:53.781 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 12:39:53.781 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 12:39:54.456 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-16 12:39:55.002 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-16 12:39:55.457 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 12:39:55.457 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 12:39:55.988 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-16 12:39:56.406 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-16 12:39:56.735 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 12:39:56.735 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 12:39:57.526 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-16 12:39:57.920 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 12:39:57.920 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-16 12:39:58.572 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:00.121 [main] Loggers - Arrays
+[INFO ] 2023-08-16 12:40:01.011 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:02.651 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:02.761 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:03.524 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 12:40:04.110 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:05.605 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:05.712 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:06.742 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 12:40:07.699 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:09.799 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:09.931 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:11.690 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 12:40:12.486 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:14.103 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:14.185 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:15.016 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 12:40:15.607 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:17.560 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:17.645 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:18.271 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 12:40:18.773 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:19.881 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:19.965 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:20.646 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 12:40:21.189 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:22.162 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:22.225 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:22.676 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 12:40:23.044 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:23.956 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 12:40:24.017 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 12:40:24.596 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 14:59:08.416 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-16 14:59:08.892 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-16 14:59:09.730 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-16 14:59:09.746 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-16 14:59:11.020 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-16 14:59:11.260 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 14:59:11.261 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 14:59:11.698 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-16 14:59:12.006 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-16 14:59:12.335 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 14:59:12.335 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 14:59:12.802 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-16 14:59:13.250 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-16 14:59:13.548 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 14:59:13.548 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 14:59:14.218 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-16 14:59:14.491 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 14:59:14.491 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-16 14:59:15.037 [main] Loggers - We are in Datastructures Page
+[INFO ] 2023-08-16 14:59:15.734 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 14:59:17.020 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-16 14:59:17.101 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-16 14:59:17.546 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-16 14:59:17.972 [main] Loggers - We are in Datastructures Page
+[INFO ] 2023-08-16 15:21:08.261 [main] Loggers - In HomePage
+[INFO ] 2023-08-16 15:21:08.267 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-16 15:21:08.269 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-16 15:21:08.364 [main] Loggers - Dropdown got clicked
+[INFO ] 2023-08-16 15:21:08.632 [main] Loggers - user is in Linked list page
+[INFO ] 2023-08-16 15:21:08.632 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:08.920 [main] Loggers - introduction link got clicked
+[INFO ] 2023-08-16 15:21:09.639 [main] Loggers - Try Here got clicked on introduction page
+[INFO ] 2023-08-16 15:21:10.335 [main] Loggers - In tryEditor page
+[INFO ] 2023-08-16 15:21:10.336 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:10.572 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:11.485 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:11.701 [main] Loggers - In tryEditor page
+[INFO ] 2023-08-16 15:21:11.702 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:12.032 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:12.315 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:12.614 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:13.100 [main] Loggers - User is ready to create Linked list
+[INFO ] 2023-08-16 15:21:13.469 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:13.746 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:14.052 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:14.395 [main] Loggers - User is ready to create Linked list
+[INFO ] 2023-08-16 15:21:14.740 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:14.992 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:15.260 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:15.741 [main] Loggers - user clicked on types of linked list link
+[INFO ] 2023-08-16 15:21:16.102 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:16.413 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:16.694 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:17.135 [main] Loggers - user clicked on types of linked list link
+[INFO ] 2023-08-16 15:21:17.457 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:17.694 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:17.977 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:18.333 [main] Loggers - User can implement linkedlist
+[INFO ] 2023-08-16 15:21:18.677 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:18.932 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:19.142 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:19.391 [main] Loggers - User can implement linkedlist
+[INFO ] 2023-08-16 15:21:19.707 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:19.931 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:20.221 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:20.636 [main] Loggers - user is in Traversal Linked list page
+[INFO ] 2023-08-16 15:21:20.742 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:21.071 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:21.196 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:21.278 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:21.362 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:21.488 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:21.549 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:45.657 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-16 15:21:46.330 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-16 15:21:47.341 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-16 15:21:47.372 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-16 15:21:49.336 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-16 15:21:49.621 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 15:21:49.621 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 15:21:50.090 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-16 15:21:50.424 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-16 15:21:50.725 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 15:21:50.726 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 15:21:51.112 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-16 15:21:51.389 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-16 15:21:51.633 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 15:21:51.634 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-16 15:21:52.201 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-16 15:21:52.458 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-16 15:21:52.458 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-16 15:21:54.056 [main] Loggers - In HomePage
+[INFO ] 2023-08-16 15:21:54.069 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-16 15:21:54.071 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-16 15:21:54.295 [main] Loggers - Dropdown got clicked
+[INFO ] 2023-08-16 15:21:54.628 [main] Loggers - user is in Linked list page
+[INFO ] 2023-08-16 15:21:54.630 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:55.045 [main] Loggers - introduction link got clicked
+[INFO ] 2023-08-16 15:21:55.832 [main] Loggers - Try Here got clicked on introduction page
+[INFO ] 2023-08-16 15:21:56.863 [main] Loggers - In tryEditor page
+[INFO ] 2023-08-16 15:21:56.864 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:57.192 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:57.446 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:57.682 [main] Loggers - In tryEditor page
+[INFO ] 2023-08-16 15:21:57.684 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:58.005 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:58.251 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:58.492 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:58.846 [main] Loggers - User is ready to create Linked list
+[INFO ] 2023-08-16 15:21:59.165 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:21:59.397 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:21:59.645 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:21:59.898 [main] Loggers - User is ready to create Linked list
+[INFO ] 2023-08-16 15:22:00.189 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:00.420 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:00.667 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:01.101 [main] Loggers - user clicked on types of linked list link
+[INFO ] 2023-08-16 15:22:01.412 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:01.645 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:01.914 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:02.182 [main] Loggers - user clicked on types of linked list link
+[INFO ] 2023-08-16 15:22:02.546 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:02.860 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:03.074 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:03.412 [main] Loggers - User can implement linkedlist
+[INFO ] 2023-08-16 15:22:03.749 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:04.029 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:04.232 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:04.490 [main] Loggers - User can implement linkedlist
+[INFO ] 2023-08-16 15:22:04.792 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:05.009 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:05.238 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:05.627 [main] Loggers - user is in Traversal Linked list page
+[INFO ] 2023-08-16 15:22:05.975 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:06.231 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:06.487 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:06.748 [main] Loggers - user is in Traversal Linked list page
+[INFO ] 2023-08-16 15:22:07.075 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:07.321 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:07.610 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:07.957 [main] Loggers - User in insertion linked list page
+[INFO ] 2023-08-16 15:22:08.280 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:08.519 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:08.723 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:08.999 [main] Loggers - User in insertion linked list page
+[INFO ] 2023-08-16 15:22:09.311 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:09.579 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:09.855 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:10.229 [main] Loggers - User is in deletion of Linked list
+[INFO ] 2023-08-16 15:22:10.557 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:10.816 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:11.056 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:11.292 [main] Loggers - User is in deletion of Linked list
+[INFO ] 2023-08-16 15:22:11.572 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-16 15:22:11.775 [main] Loggers - python code being sent
+[INFO ] 2023-08-16 15:22:12.058 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-16 15:22:12.354 [main] Loggers - User is in Practice Questions Page
+[INFO ] 2023-08-16 15:22:12.398 [main] Loggers - User been Navigated back to Main page of LinkedList
+[INFO ] 2023-08-18 14:19:02.293 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 14:19:02.752 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 14:19:03.704 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 14:19:03.718 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 14:19:05.457 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-18 14:19:06.445 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-18 14:19:07.901 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-18 14:19:09.177 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-18 14:23:50.132 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 14:23:50.741 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 14:23:52.034 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 14:23:52.094 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 14:23:53.774 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-18 14:23:54.630 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-18 14:23:55.702 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-18 14:23:56.851 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-18 14:30:34.288 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 14:30:34.813 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 14:30:35.784 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 14:30:35.803 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 14:30:36.559 [main] Loggers - integer input0
+[INFO ] 2023-08-18 14:30:36.560 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:37.577 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:30:37.864 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:38.809 [main] Loggers - integer input1
+[INFO ] 2023-08-18 14:30:38.809 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:38.894 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:30:39.103 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:40.443 [main] Loggers - integer input2
+[INFO ] 2023-08-18 14:30:40.443 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:40.521 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:30:40.791 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:41.707 [main] Loggers - integer input3
+[INFO ] 2023-08-18 14:30:41.707 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:41.791 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-18 14:30:42.049 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:42.892 [main] Loggers - integer input4
+[INFO ] 2023-08-18 14:30:42.893 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:43.084 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-18 14:30:43.348 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:44.131 [main] Loggers - integer input5
+[INFO ] 2023-08-18 14:30:44.132 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:44.195 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-18 14:30:44.471 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:45.174 [main] Loggers - integer input6
+[INFO ] 2023-08-18 14:30:45.174 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:45.242 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-18 14:30:45.543 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:46.449 [main] Loggers - integer input7
+[INFO ] 2023-08-18 14:30:46.450 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:46.622 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-18 14:30:46.891 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:47.638 [main] Loggers - integer input8
+[INFO ] 2023-08-18 14:30:47.638 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:47.706 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-18 14:30:47.978 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:48.833 [main] Loggers - integer input9
+[INFO ] 2023-08-18 14:30:48.834 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:48.918 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-18 14:30:49.375 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:30:50.185 [main] Loggers - integer input10
+[INFO ] 2023-08-18 14:30:50.185 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:30:50.241 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-18 14:30:50.592 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:29.424 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 14:35:29.772 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 14:35:30.666 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 14:35:30.697 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 14:35:31.272 [main] Loggers - integer input0
+[INFO ] 2023-08-18 14:35:31.272 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:32.127 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:35:32.301 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:33.101 [main] Loggers - integer input1
+[INFO ] 2023-08-18 14:35:33.101 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:33.187 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:35:33.393 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:34.155 [main] Loggers - integer input2
+[INFO ] 2023-08-18 14:35:34.155 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:34.239 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:35:34.452 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:35.204 [main] Loggers - integer input3
+[INFO ] 2023-08-18 14:35:35.205 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:35.294 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-18 14:35:35.516 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:36.238 [main] Loggers - integer input4
+[INFO ] 2023-08-18 14:35:36.238 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:36.317 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-18 14:35:36.560 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:37.336 [main] Loggers - integer input5
+[INFO ] 2023-08-18 14:35:37.336 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:37.397 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-18 14:35:37.683 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:38.381 [main] Loggers - integer input6
+[INFO ] 2023-08-18 14:35:38.381 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:38.466 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-18 14:35:38.799 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:39.673 [main] Loggers - integer input7
+[INFO ] 2023-08-18 14:35:39.674 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:39.740 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-18 14:35:40.034 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:40.894 [main] Loggers - integer input8
+[INFO ] 2023-08-18 14:35:40.894 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:41.023 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-18 14:35:41.436 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:42.320 [main] Loggers - integer input9
+[INFO ] 2023-08-18 14:35:42.321 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:42.383 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-18 14:35:42.689 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:35:43.520 [main] Loggers - integer input10
+[INFO ] 2023-08-18 14:35:43.520 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:35:43.586 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-18 14:35:43.898 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:15.384 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 14:59:15.785 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 14:59:16.755 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 14:59:16.792 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 14:59:17.350 [main] Loggers - integer input0
+[INFO ] 2023-08-18 14:59:17.351 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:18.176 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:59:18.355 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:18.551 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:59:18.572 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:59:18.955 [main] Loggers - integer input1
+[INFO ] 2023-08-18 14:59:18.956 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:19.061 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:59:19.248 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:19.398 [main] Loggers - 
+[INFO ] 2023-08-18 14:59:19.421 [main] Loggers - 
+[INFO ] 2023-08-18 14:59:19.829 [main] Loggers - integer input2
+[INFO ] 2023-08-18 14:59:19.830 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:19.903 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:59:20.095 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:20.234 [main] Loggers - 
+[INFO ] 2023-08-18 14:59:20.256 [main] Loggers - 
+[INFO ] 2023-08-18 14:59:20.707 [main] Loggers - integer input3
+[INFO ] 2023-08-18 14:59:20.709 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:20.800 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-18 14:59:21.007 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:22.118 [main] Loggers - integer input4
+[INFO ] 2023-08-18 14:59:22.119 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:22.218 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-18 14:59:22.482 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:23.713 [main] Loggers - integer input5
+[INFO ] 2023-08-18 14:59:23.714 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:23.809 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-18 14:59:24.175 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:25.514 [main] Loggers - integer input6
+[INFO ] 2023-08-18 14:59:25.517 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:25.591 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-18 14:59:25.928 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:27.180 [main] Loggers - integer input7
+[INFO ] 2023-08-18 14:59:27.180 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:27.254 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-18 14:59:27.726 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:28.938 [main] Loggers - integer input8
+[INFO ] 2023-08-18 14:59:28.939 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:29.018 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-18 14:59:29.395 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:30.571 [main] Loggers - integer input9
+[INFO ] 2023-08-18 14:59:30.572 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:30.640 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-18 14:59:31.001 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:32.198 [main] Loggers - integer input10
+[INFO ] 2023-08-18 14:59:32.199 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 14:59:32.309 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-18 14:59:32.737 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 14:59:33.833 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-18 14:59:34.166 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 14:59:34.166 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 14:59:34.659 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:59:34.905 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-18 14:59:35.219 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 14:59:35.219 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 14:59:35.653 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 14:59:35.884 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-18 14:59:36.077 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 14:59:36.078 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 14:59:36.639 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-18 14:59:36.909 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 14:59:36.910 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-18 15:04:58.191 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 15:04:58.529 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 15:04:59.458 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 15:04:59.487 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 15:05:00.094 [main] Loggers - integer input0
+[INFO ] 2023-08-18 15:05:00.094 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:00.944 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 15:05:01.116 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:01.302 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 15:05:01.324 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 15:05:01.695 [main] Loggers - integer input1
+[INFO ] 2023-08-18 15:05:01.699 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:01.848 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 15:05:02.050 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:02.223 [main] Loggers - 
+[INFO ] 2023-08-18 15:05:02.252 [main] Loggers - 
+[INFO ] 2023-08-18 15:05:02.666 [main] Loggers - integer input2
+[INFO ] 2023-08-18 15:05:02.667 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:02.783 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 15:05:03.138 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:03.339 [main] Loggers - 
+[INFO ] 2023-08-18 15:05:03.374 [main] Loggers - 
+[INFO ] 2023-08-18 15:05:03.947 [main] Loggers - integer input3
+[INFO ] 2023-08-18 15:05:03.952 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:04.060 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-18 15:05:04.387 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:05.744 [main] Loggers - integer input4
+[INFO ] 2023-08-18 15:05:05.746 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:05.859 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-18 15:05:06.201 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:07.473 [main] Loggers - integer input5
+[INFO ] 2023-08-18 15:05:07.473 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:07.546 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-18 15:05:07.893 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:09.140 [main] Loggers - integer input6
+[INFO ] 2023-08-18 15:05:09.141 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:09.226 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-18 15:05:09.559 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:10.771 [main] Loggers - integer input7
+[INFO ] 2023-08-18 15:05:10.772 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:10.853 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-18 15:05:11.202 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:12.427 [main] Loggers - integer input8
+[INFO ] 2023-08-18 15:05:12.427 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:12.497 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-18 15:05:12.893 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:14.088 [main] Loggers - integer input9
+[INFO ] 2023-08-18 15:05:14.089 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:14.159 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-18 15:05:14.554 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:15.738 [main] Loggers - integer input10
+[INFO ] 2023-08-18 15:05:15.739 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 15:05:15.821 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-18 15:05:16.139 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 15:05:17.141 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-18 15:05:17.440 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 15:05:17.440 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 15:05:17.862 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 15:05:18.042 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-18 15:05:18.324 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 15:05:18.325 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 15:05:18.724 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 15:05:18.926 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-18 15:05:19.113 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 15:05:19.114 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 15:05:19.676 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-18 15:05:20.074 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 15:05:20.075 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-18 17:51:52.544 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 17:51:52.906 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 17:51:53.679 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 17:51:53.686 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 17:51:54.165 [main] Loggers - integer input0
+[INFO ] 2023-08-18 17:51:54.167 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:51:55.044 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:51:55.201 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:51:55.393 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:51:55.411 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:51:55.780 [main] Loggers - integer input1
+[INFO ] 2023-08-18 17:51:55.780 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:51:55.863 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:51:56.077 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:51:56.220 [main] Loggers - 
+[INFO ] 2023-08-18 17:51:56.241 [main] Loggers - 
+[INFO ] 2023-08-18 17:51:56.634 [main] Loggers - integer input2
+[INFO ] 2023-08-18 17:51:56.634 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:51:56.702 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:51:56.932 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:51:57.100 [main] Loggers - 
+[INFO ] 2023-08-18 17:51:57.131 [main] Loggers - 
+[INFO ] 2023-08-18 17:51:57.704 [main] Loggers - integer input3
+[INFO ] 2023-08-18 17:51:57.705 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:51:57.801 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-18 17:51:58.121 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:51:59.405 [main] Loggers - integer input4
+[INFO ] 2023-08-18 17:51:59.406 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:51:59.508 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-18 17:51:59.885 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:52:01.089 [main] Loggers - integer input5
+[INFO ] 2023-08-18 17:52:01.089 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:52:01.162 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-18 17:52:01.483 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:52:02.714 [main] Loggers - integer input6
+[INFO ] 2023-08-18 17:52:02.717 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:52:02.794 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-18 17:52:03.134 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:52:04.270 [main] Loggers - integer input7
+[INFO ] 2023-08-18 17:52:04.272 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:52:04.361 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-18 17:52:04.683 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:52:05.751 [main] Loggers - integer input8
+[INFO ] 2023-08-18 17:52:05.752 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:52:05.803 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-18 17:52:06.165 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:52:07.219 [main] Loggers - integer input9
+[INFO ] 2023-08-18 17:52:07.219 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:52:07.273 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-18 17:52:07.639 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:52:08.771 [main] Loggers - integer input10
+[INFO ] 2023-08-18 17:52:08.771 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:52:08.841 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-18 17:52:09.200 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:52:10.199 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-18 17:52:10.474 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:52:10.474 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:52:10.881 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:52:11.068 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-18 17:52:11.323 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:52:11.324 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:52:11.682 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:52:11.885 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-18 17:52:12.084 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:52:12.084 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:52:12.594 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-18 17:52:12.937 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:52:12.937 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-18 17:53:23.013 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 17:53:23.413 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 17:53:24.172 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 17:53:24.181 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 17:53:24.641 [main] Loggers - integer input0
+[INFO ] 2023-08-18 17:53:24.641 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:25.460 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:53:25.675 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:25.949 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:53:25.979 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:53:26.432 [main] Loggers - integer input1
+[INFO ] 2023-08-18 17:53:26.439 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:26.572 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:53:26.862 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:27.128 [main] Loggers - 
+[INFO ] 2023-08-18 17:53:27.163 [main] Loggers - 
+[INFO ] 2023-08-18 17:53:27.695 [main] Loggers - integer input2
+[INFO ] 2023-08-18 17:53:27.695 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:27.812 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:53:28.159 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:28.377 [main] Loggers - 
+[INFO ] 2023-08-18 17:53:28.410 [main] Loggers - 
+[INFO ] 2023-08-18 17:53:29.041 [main] Loggers - integer input3
+[INFO ] 2023-08-18 17:53:29.041 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:29.155 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-18 17:53:29.522 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:30.782 [main] Loggers - integer input4
+[INFO ] 2023-08-18 17:53:30.783 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:30.881 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-18 17:53:31.238 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:32.381 [main] Loggers - integer input5
+[INFO ] 2023-08-18 17:53:32.382 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:32.459 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-18 17:53:32.793 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:33.913 [main] Loggers - integer input6
+[INFO ] 2023-08-18 17:53:33.914 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:33.982 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-18 17:53:34.328 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:35.597 [main] Loggers - integer input7
+[INFO ] 2023-08-18 17:53:35.598 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:35.713 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-18 17:53:36.306 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:37.449 [main] Loggers - integer input8
+[INFO ] 2023-08-18 17:53:37.450 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:37.513 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-18 17:53:37.901 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:38.980 [main] Loggers - integer input9
+[INFO ] 2023-08-18 17:53:38.981 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:39.045 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-18 17:53:39.365 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:40.431 [main] Loggers - integer input10
+[INFO ] 2023-08-18 17:53:40.431 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:53:40.488 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-18 17:53:40.826 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:53:41.536 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-18 17:53:41.819 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:53:41.819 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:53:42.320 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:53:42.539 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-18 17:53:42.823 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:53:42.824 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:53:43.191 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:53:43.394 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-18 17:53:43.630 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:53:43.631 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:53:44.186 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-18 17:53:44.537 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:53:44.537 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-18 17:54:50.424 [main] Loggers - Launching Chrome Browser
+[INFO ] 2023-08-18 17:54:50.736 [main] Loggers - Opening Home Page
+[INFO ] 2023-08-18 17:54:51.517 [main] Loggers - Clicking on Get Started Button 
+[INFO ] 2023-08-18 17:54:51.524 [main] Loggers - we are in the Home page now 
+[INFO ] 2023-08-18 17:54:51.791 [main] Loggers - user clicked on Data Structure dropdown
+[INFO ] 2023-08-18 17:54:52.076 [main] Loggers - user selected graph from data structures dropdown
+[INFO ] 2023-08-18 17:54:52.100 [main] Loggers - title of current page : NumpyNinja
+[INFO ] 2023-08-18 17:54:52.706 [main] Loggers - user is in graph page
+[INFO ] 2023-08-18 17:54:53.343 [main] Loggers - user is in graphgraphpage
+[INFO ] 2023-08-18 17:54:53.701 [main] Loggers - user is in graph page
+[INFO ] 2023-08-18 17:54:54.440 [main] Loggers - user is in graph representations page
+[INFO ] 2023-08-18 17:54:55.046 [main] Loggers - User clicked on Graph Try here link
+[INFO ] 2023-08-18 17:54:55.446 [main] Loggers - user is in graph representations page
+[INFO ] 2023-08-18 17:54:55.702 [main] Loggers - User clicked on Graph Practice Questions link
+[INFO ] 2023-08-18 17:54:55.721 [main] Loggers - Title of current page is :Practice Questions
+[INFO ] 2023-08-18 17:54:56.324 [main] Loggers - integer input0
+[INFO ] 2023-08-18 17:54:56.326 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:54:57.640 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:54:57.900 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:54:58.220 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:54:58.248 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:54:58.854 [main] Loggers - integer input1
+[INFO ] 2023-08-18 17:54:58.855 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:54:59.018 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:54:59.426 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:54:59.771 [main] Loggers - 
+[INFO ] 2023-08-18 17:54:59.816 [main] Loggers - 
+[INFO ] 2023-08-18 17:55:00.576 [main] Loggers - integer input2
+[INFO ] 2023-08-18 17:55:00.576 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:00.708 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:55:01.116 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:01.374 [main] Loggers - 
+[INFO ] 2023-08-18 17:55:01.422 [main] Loggers - 
+[INFO ] 2023-08-18 17:55:01.967 [main] Loggers - integer input3
+[INFO ] 2023-08-18 17:55:01.969 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:02.116 [main] Loggers - Please enter a valid user name
+[INFO ] 2023-08-18 17:55:02.524 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:03.953 [main] Loggers - integer input4
+[INFO ] 2023-08-18 17:55:03.954 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:04.053 [main] Loggers - UserName already Exist
+[INFO ] 2023-08-18 17:55:04.457 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:05.856 [main] Loggers - integer input5
+[INFO ] 2023-08-18 17:55:05.857 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:05.938 [main] Loggers - password_mismatch:The two password fields didn’t match
+[INFO ] 2023-08-18 17:55:06.442 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:07.879 [main] Loggers - integer input6
+[INFO ] 2023-08-18 17:55:07.884 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:07.946 [main] Loggers - Password should contain atleast 8 characters
+[INFO ] 2023-08-18 17:55:08.374 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:09.679 [main] Loggers - integer input7
+[INFO ] 2023-08-18 17:55:09.685 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:09.765 [main] Loggers - password can't be entirely numeric
+[INFO ] 2023-08-18 17:55:10.311 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:12.582 [main] Loggers - integer input8
+[INFO ] 2023-08-18 17:55:12.583 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:12.719 [main] Loggers - password can’t be too similar to your other personal information
+[INFO ] 2023-08-18 17:55:13.475 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:15.098 [main] Loggers - integer input9
+[INFO ] 2023-08-18 17:55:15.103 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:15.173 [main] Loggers - When The user enters a valid ""username"" and commonly used password ""password
+[INFO ] 2023-08-18 17:55:15.709 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:17.080 [main] Loggers - integer input10
+[INFO ] 2023-08-18 17:55:17.082 [main] Loggers - User enter registration credentials
+[INFO ] 2023-08-18 17:55:17.147 [main] Loggers - New Account Created. You are logged in as <username>
+[INFO ] 2023-08-18 17:55:17.680 [main] Loggers - Registration credentials entered
+[INFO ] 2023-08-18 17:55:18.542 [main] Loggers - User Enter username as " The_Big_leauge "and Password as " sadgfgghj" 
+[INFO ] 2023-08-18 17:55:18.865 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:55:18.866 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:55:19.383 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:55:19.611 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " hfg_039944" 
+[INFO ] 2023-08-18 17:55:19.908 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:55:19.908 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:55:20.299 [main] Loggers - Please fill out this field.
+[INFO ] 2023-08-18 17:55:20.508 [main] Loggers - User Enter username as " dshshfjkg "and Password as " eyr99008" 
+[INFO ] 2023-08-18 17:55:20.703 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:55:20.703 [main] Loggers - Expected Message - Excel Sheet :  Inavalid Username and Password
+[INFO ] 2023-08-18 17:55:21.223 [main] Loggers - User Enter username as " The_Big_Leauge "and Password as " User@0000" 
+[INFO ] 2023-08-18 17:55:21.477 [main] Loggers - User clicks on login button
+[INFO ] 2023-08-18 17:55:21.477 [main] Loggers - Expected Message - Excel Sheet :  You are logged in
+[INFO ] 2023-08-18 17:55:22.006 [main] Loggers - We are in Datastructures Page
+[INFO ] 2023-08-18 17:55:22.667 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:23.586 [main] Loggers - Arrays valid output= welcome
+[INFO ] 2023-08-18 17:55:23.666 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:24.000 [main] Loggers - Arrays invalid output= 
+[INFO ] 2023-08-18 17:55:24.428 [main] Loggers - We are in Datastructures Page
+[INFO ] 2023-08-18 17:55:24.847 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:26.111 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:26.579 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:27.039 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:27.495 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:27.949 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:28.402 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:28.857 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:29.366 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:29.820 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:30.269 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:30.717 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:31.151 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:31.609 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:32.063 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:32.489 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:32.946 [main] Loggers - Entered into Arrays Datastructures page
+[INFO ] 2023-08-18 17:55:34.125 [main] Loggers - In HomePage
+[INFO ] 2023-08-18 17:55:34.128 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-18 17:55:34.130 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-18 17:55:34.349 [main] Loggers - Dropdown got clicked
+[INFO ] 2023-08-18 17:55:34.636 [main] Loggers - user is in Linked list page
+[INFO ] 2023-08-18 17:55:34.648 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:34.980 [main] Loggers - introduction link got clicked
+[INFO ] 2023-08-18 17:55:35.284 [main] Loggers - Try Here got clicked on introduction page
+[INFO ] 2023-08-18 17:55:36.298 [main] Loggers - In tryEditor page
+[INFO ] 2023-08-18 17:55:36.298 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:36.696 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:37.000 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:37.213 [main] Loggers - In tryEditor page
+[INFO ] 2023-08-18 17:55:37.214 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:37.601 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:37.825 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:38.069 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:38.550 [main] Loggers - User is ready to create Linked list
+[INFO ] 2023-08-18 17:55:38.920 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:39.197 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:39.465 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:39.753 [main] Loggers - User is ready to create Linked list
+[INFO ] 2023-08-18 17:55:40.092 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:40.303 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:40.520 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:40.901 [main] Loggers - user clicked on types of linked list link
+[INFO ] 2023-08-18 17:55:41.268 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:41.480 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:41.723 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:41.981 [main] Loggers - user clicked on types of linked list link
+[INFO ] 2023-08-18 17:55:42.257 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:42.461 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:42.680 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:43.081 [main] Loggers - User can implement linkedlist
+[INFO ] 2023-08-18 17:55:43.401 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:43.657 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:43.903 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:44.140 [main] Loggers - User can implement linkedlist
+[INFO ] 2023-08-18 17:55:44.505 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:44.765 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:45.022 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:45.403 [main] Loggers - user is in Traversal Linked list page
+[INFO ] 2023-08-18 17:55:45.737 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:45.984 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:46.187 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:46.424 [main] Loggers - user is in Traversal Linked list page
+[INFO ] 2023-08-18 17:55:46.723 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:46.929 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:47.221 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:47.641 [main] Loggers - User in insertion linked list page
+[INFO ] 2023-08-18 17:55:48.024 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:48.264 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:48.534 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:48.969 [main] Loggers - User in insertion linked list page
+[INFO ] 2023-08-18 17:55:49.372 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:49.570 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:49.834 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:50.369 [main] Loggers - User is in deletion of Linked list
+[INFO ] 2023-08-18 17:55:50.801 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:51.051 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:51.254 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:51.593 [main] Loggers - User is in deletion of Linked list
+[INFO ] 2023-08-18 17:55:51.923 [main] Loggers - User is in TryEditor page
+[INFO ] 2023-08-18 17:55:52.116 [main] Loggers - python code being sent
+[INFO ] 2023-08-18 17:55:52.338 [main] Loggers - Entered into LinkedList Module
+[INFO ] 2023-08-18 17:55:52.670 [main] Loggers - User is in Practice Questions Page
+[INFO ] 2023-08-18 17:55:52.754 [main] Loggers - User been Navigated back to Main page of LinkedList
+[INFO ] 2023-08-18 17:55:52.781 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-18 17:55:52.782 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-18 17:55:53.238 [main] Loggers - select stack menu from dropdown
+[INFO ] 2023-08-18 17:55:53.240 [main] Loggers - select operations in stack
+[INFO ] 2023-08-18 17:55:54.275 [main] Loggers - try button click
+[INFO ] 2023-08-18 17:55:54.276 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:55:54.631 [main] Loggers - run button click
+[INFO ] 2023-08-18 17:55:55.174 [main] Loggers - try button click
+[INFO ] 2023-08-18 17:55:55.175 [main] Loggers - User enter invalid code for operations in stack
+[INFO ] 2023-08-18 17:55:55.464 [main] Loggers - run button click
+[INFO ] 2023-08-18 17:55:55.465 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-18 17:55:55.598 [main] Loggers - select implementation in stack
+[INFO ] 2023-08-18 17:55:56.256 [main] Loggers - try button click
+[INFO ] 2023-08-18 17:55:56.259 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:55:56.560 [main] Loggers - run button click
+[INFO ] 2023-08-18 17:55:57.095 [main] Loggers - try button click
+[INFO ] 2023-08-18 17:55:57.096 [main] Loggers - User enter invalid code for operations in stack
+[INFO ] 2023-08-18 17:55:57.372 [main] Loggers - run button click
+[INFO ] 2023-08-18 17:55:57.372 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-18 17:55:57.507 [main] Loggers - selectapplications in stack
+[INFO ] 2023-08-18 17:55:58.148 [main] Loggers - try button click
+[INFO ] 2023-08-18 17:55:58.153 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:55:58.471 [main] Loggers - run button click
+[INFO ] 2023-08-18 17:55:58.926 [main] Loggers - try button click
+[INFO ] 2023-08-18 17:55:58.931 [main] Loggers - User enter invalid code for operations in stack
+[INFO ] 2023-08-18 17:55:59.226 [main] Loggers - run button click
+[INFO ] 2023-08-18 17:55:59.227 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-18 17:55:59.315 [main] Loggers - select practice questions in stack
+[INFO ] 2023-08-18 17:56:00.712 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-18 17:56:00.719 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-18 17:56:03.065 [main] Loggers - select Queue menu from dropdown
+[INFO ] 2023-08-18 17:56:03.067 [main] Loggers - select queuein python
+[INFO ] 2023-08-18 17:56:04.658 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:04.659 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:04.852 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:05.124 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:05.125 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:05.291 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:05.292 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-18 17:56:05.403 [main] Loggers - select using collections
+[INFO ] 2023-08-18 17:56:05.844 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:05.844 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:06.068 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:06.443 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:06.446 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:06.683 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:06.684 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-18 17:56:06.804 [main] Loggers - select using arrays
+[INFO ] 2023-08-18 17:56:07.442 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:07.443 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:07.840 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:08.263 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:08.264 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:08.558 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:08.559 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-18 17:56:08.696 [main] Loggers - select queue operation
+[INFO ] 2023-08-18 17:56:09.336 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:09.337 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:09.655 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:10.125 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:10.126 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:10.422 [main] Loggers - queue run button click
+[INFO ] 2023-08-18 17:56:10.422 [main] Loggers - run button click for invalid code
+[INFO ] 2023-08-18 17:56:10.574 [main] Loggers - select practice questions in queue
+[INFO ] 2023-08-18 17:56:10.896 [main] Loggers - enter Homepage feature
+[INFO ] 2023-08-18 17:56:10.896 [main] Loggers - enter dropdownclk
+[INFO ] 2023-08-18 17:56:13.177 [main] Loggers - select Tree menu from dropdown
+[INFO ] 2023-08-18 17:56:13.178 [main] Loggers - select treein python
+[INFO ] 2023-08-18 17:56:13.612 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:13.612 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:13.974 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:13.975 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:14.367 [main] Loggers - select using arrays
+[INFO ] 2023-08-18 17:56:14.781 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:14.782 [main] Loggers - User enter valid code for operations in stack
+[INFO ] 2023-08-18 17:56:15.289 [main] Loggers - queue try button click
+[INFO ] 2023-08-18 17:56:15.289 [main] Loggers - User enter valid code for operations in stack

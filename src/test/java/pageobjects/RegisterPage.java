@@ -9,7 +9,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import stepdefinition.Base;
 import utilities.ConfigReader;
 import utilities.DriverFactory;
 
@@ -33,7 +32,7 @@ public class RegisterPage {
 	WebElement alertmsg;
 
 	public void registrationlink() throws InterruptedException {
-		// reglink.click();
+		 reglink.click();
 		DriverFactory.openPage(ConfigReader.registerPageURL());
 
 	}

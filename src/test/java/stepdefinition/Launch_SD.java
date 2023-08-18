@@ -1,12 +1,14 @@
 package stepdefinition;
 
 import static org.testng.Assert.assertEquals;
+import org.testng.Assert;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.Assert;
+//import org.testng.Assert;
+//import org.junit.Assert;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -48,6 +50,7 @@ public class Launch_SD {
 	@Then("the landing page is HOME Page")
 	public void the_landing_page_is_home_page() {
 		Loggers.info("we are in the Home page now ");
+//		Assert.assertEquals(launchPage.gethomepagetitle(), Constant.HOME_PAGE_TITLE);
 		Assert.assertEquals(launchPage.gethomepagetitle(), Constant.HOME_PAGE_TITLE);
 
 	}

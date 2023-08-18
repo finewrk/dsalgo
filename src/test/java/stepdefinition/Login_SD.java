@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.List;
 import java.util.Map;
+import static org.testng.Assert.assertEquals;
+import org.testng.Assert;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.openqa.selenium.By;
@@ -21,7 +23,7 @@ import utilities.DriverFactory;
 import utilities.ExcelReader;
 import utilities.Loggers;
 
-public class Login_SD extends Base {
+public class Login_SD  {
 	String excelpath = ".\\src\\test\\resources\\exceldata\\logindata.xlsx";
 	String message = "";
 	WebDriver driver;

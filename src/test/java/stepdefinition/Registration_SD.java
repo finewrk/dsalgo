@@ -5,7 +5,8 @@ import java.util.List;
 import java.util.Map;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import org.junit.Assert;
+import static org.testng.Assert.assertEquals;
+import org.testng.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -18,12 +19,11 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageobjects.LoginPage;
 import pageobjects.RegisterPage;
-//import pageobjects.LoginPage;
 import utilities.DriverFactory;
 import utilities.ExcelReader;
 import utilities.Loggers;
 
-public class Registration_SD extends Base {
+public class Registration_SD  {
 	WebDriver driver;
 String excelpath = ".\\src\\test\\resources\\exceldata\\registerpageExceldata.xlsx";
        
@@ -79,14 +79,14 @@ String excelpath = ".\\src\\test\\resources\\exceldata\\registerpageExceldata.xl
 			} 
 			else if ((rowval > 2) && (rowval < 10)) {
 				actmsg = registerPage.alertdismsg();
-				//Assert.assertEquals(actmsg, expmsg);
+				Assert.assertEquals(actmsg, expmsg);
 			}
 			 else if(rowval==10) {
 
 			actmsg = login.alertdismsg();
 			System.out.print(actmsg);
 			//Assert.assertEquals(actmsg, expmsg);
-			login.signoutclk();
+			//login.signoutclk();
 			login.alertdismsg();
 			login.clkSignIn();
 			 }
