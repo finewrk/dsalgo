@@ -17,7 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 
-@DS3_login
+@3DS_login
 
 Feature: login page 
   Scenario Outline: User on login page and login with inavalid and validinputs from Excel"<Sheetname>" and<RowNumber>

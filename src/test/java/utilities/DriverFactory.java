@@ -62,9 +62,9 @@ public class DriverFactory {
 	public static void tearDown() {
 		if(getDriver()!=null) {
 //			LoggerLoad.info("enter teardown");
-			//getDriver().close();
-			//getDriver().quit();
-			//driver=null;
+			getDriver().close();
+			getDriver().quit();
+			driver=null;
 		}
 		driver = null;
 		
