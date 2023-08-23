@@ -29,8 +29,8 @@ public class AddHooks  {
 	    public static void tearDown(Scenario scenario) {
 	 
 	        if(scenario.isFailed()) {
-	            final byte[] screenshot = ((TakesScreenshot) DriverFactory.getDriver()).getScreenshotAs(OutputType.BYTES);
-	            scenario.attach(screenshot, "image/png", scenario.getName()); 
+//	            final byte[] screenshot = ((TakesScreenshot) DriverFactory.getDriver()).getScreenshotAs(OutputType.BYTES);
+//	            scenario.attach(screenshot, "image/png", scenario.getName()); 
 	        }   
 	         
 	    //    DriverFactory.tearDown();

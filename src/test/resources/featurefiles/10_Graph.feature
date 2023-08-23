@@ -16,7 +16,7 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@10DS_graph
+@99DS_graph
 Feature: User launch dsalgo application and test Graph page
 
   #Background: The user is logged in to DS Algo portal

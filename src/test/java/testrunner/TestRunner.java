@@ -16,15 +16,15 @@ import io.cucumber.junit.CucumberOptions;
 //		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 		}
          ,tags="@1DS_launch or "
-         		+ "@2DS_register or "
-         		+ "@3DS_login  or "
-         		+ "@4DS_DataStructure or "  
-         		+ "@5DS_Array or " 
-         		+ "@6DS_LinkedList   or " 
-         		+ "@7DS_Stack   or " 
-         		+ "@8DS_Queue  or " 
-         		+" @9DS_Tree  or " 
-         		+" @10DS_graph") 
+        		+ "@2DS_register or "
+       		    + "@3DS_login   or "
+       		    + "@4DS_DataStructure  or "  
+       		    + "@5DS_Array or " 
+        		+ "@6DS_LinkedList  or " 
+      		    + "@7DS_Stack   or " 
+       		    + "@8DS_Queue  or " 
+     		    + "@9DS_Tree ") //or " 
+         	 //   + "@99DS_graph") 
          		
         
 

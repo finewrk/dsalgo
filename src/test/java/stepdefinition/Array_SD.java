@@ -6,8 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import static org.testng.Assert.assertEquals;
-import org.testng.Assert;
+import org.junit.Assert;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -18,30 +17,27 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageobjects.ArrayPage;
-
 import pageobjects.LoginPage;
 import utilities.ExcelReader;
 import utilities.Loggers;
 
-public class Array_SD {
-	LoginPage login;
+public class Array_SD extends Base{
 	WebDriver driver = DriverFactory.getDriver();
 	ArrayPage arrays = new ArrayPage(driver);
-	
+
 	String excelpath = ".\\src/test/resources/ExcelData/pythoncodeexcel.xlsx";
 	
 	String expectedcode;
 	String actcode;
 	String output;
 	String result;
-	
-	
+
 	@Given("User click on get started button on array module and navigate to array page")
 	public void user_click_on_get_started_button_on_array_module_and_navigate_to_array_page() {
 
 		DriverFactory.openPage("https://dsportalapp.herokuapp.com/login");
-		login = new LoginPage(driver);
-		login.enternamepasswrd("seema12", "thebigleauge110");
+		LoginPage login = new LoginPage(driver);
+		login.enternamepasswrd("The_Big_Leauge", "User@0000");
 		login.loginbtnclk();
 		String actUrl = driver.getCurrentUrl();
 		String expUrl = "https://dsportalapp.herokuapp.com/home";

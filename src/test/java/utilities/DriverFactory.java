@@ -7,6 +7,7 @@ import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.manager.SeleniumManager;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -19,25 +20,15 @@ public class DriverFactory {
 	static String br; //to store browser name
 
 	private static WebDriver getchromeDriver() {
-		System.out.print("Driver Empty");
-		/*
-		 * rb=ResourceBundle.getBundle("config"); br=rb.getString("browser");
-		 * if(br.equals("CHROME")) {
-		 */
-
 			WebDriverManager.chromedriver().setup();
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\crimaster\\Downloads\\chromedriver-win32\\chromedriver.exe");  
 			driver=new ChromeDriver();
 
-//		}
-		 
 		getDriver().manage().deleteAllCookies();
 		getDriver().manage().window().maximize();
-		//getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		return getDriver();
-		//return driver;
 	}
 	public static void openPage(String url) {
-//		LoggerLoad.info("current page :"+url);
 		getDriver().get(url);
 	}
 	public static String getdriverTitle() {

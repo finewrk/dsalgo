@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import utilities.DriverFactory;
+
 import utilities.Loggers;
 
 public class ArrayPage  {

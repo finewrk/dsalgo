@@ -41,7 +41,7 @@ public class Tree_SD {
 
 	@When("user select tree option")
 	public void user_select_tree_option() throws InterruptedException {
-		treepage.dropdown();
+		treepage.dropdown_tree();
 		Thread.sleep(1000);
 		Loggers.info("select Tree menu from dropdown");	   
 	}
@@ -49,20 +49,21 @@ public class Tree_SD {
 	@When("user select tree in python")
 	
 	public void user_select_tree_in_python() throws InterruptedException {
-    Loggers.info("select treein python");
-    treepage.dropdown_tree();		
-		Thread.sleep(1000);   
+		/*
+		 * Loggers.info("select treein python"); treepage.dropdown_tree();
+		 * Thread.sleep(1000);
+		 */
 	}
 
 	@Given("user click on Try Here button in tree")
-	
 	public void user_click_on_try_here_button_in_tree() {
-	treepage.dropdown();
-		Loggers.info("queue try button click");
+		treepage.click_implementationinPython();
+		treepage.click_Tryhere();
+		Loggers.info("Tree try button click");
 	}
 
 	@When("user enter valid code in tree in python from given {string} and {int}")
-	public void user_enter_valid_code_in_tree_in_python_from_given_and(String string, Integer int1) 
+	public void user_enter_valid_code_in_tree_in_python_from_given_and(String Sheet1, Integer int1) 
 		 throws InvalidFormatException, IOException {
 			ExcelReader reader = new ExcelReader();
 			Loggers.info("User enter valid code for operations in stack");
@@ -70,16 +71,17 @@ public class Tree_SD {
 			String pythoncode=testData.get(int1).get("pythoncode"); // Column heading
 			output=testData.get(int1).get("result"); // Column heading
 			expmsg=output;
-			System.out.println(pythoncode);
-			System.out.println(output);
-			//treepage.treereadcode(pythoncode);	    
-		}
+			System.out.println("*************** Excel Value "+pythoncode);
+			treepage.userInput1(pythoncode);
+			System.out.println("*************** UserInput1"+output);
+	}
+
 
 	@When("user click run button in tree")
 	public void user_click_run_button_in_tree() 
 		  throws InterruptedException {
 			treepage.clickOnRun();
-			Loggers.info("queue run button click");
+			Loggers.info(" run button click");
 		}
 
 	@Then("user should see output in tree")
@@ -90,52 +92,53 @@ public class Tree_SD {
 			driver.navigate().back();  
 		}
 
-	@When("user enter invalid code in tree in python from given {string} and {int}")
-	public void user_enter_invalid_code_in_tree_in_python_from_given_and(String string, Integer int1)  throws InvalidFormatException, IOException {
-		ExcelReader reader = new ExcelReader();
-		Loggers.info("User enter valid code for operations in stack");
-		List<Map<String, String>> testData=reader.getData(excelpath,"Sheet1");
-		String pythoncode=testData.get(int1).get("pythoncode"); // Column heading
-		output=testData.get(int1).get("result"); // Column heading
-		expmsg=output;
-		System.out.println(pythoncode);
-		System.out.println(output);
-//		treepage.queuereadcode(pythoncode);    
+		/*
+		 * @When("user enter invalid code in tree in python from given {string} and {int}"
+		 * ) public void user_enter_invalid_code_in_tree_in_python_from_given_and(String
+		 * string, Integer int1) throws InvalidFormatException, IOException {
+		 * ExcelReader reader = new ExcelReader();
+		 * Loggers.info("User enter valid code for operations in stack");
+		 * List<Map<String, String>> testData=reader.getData(excelpath,"Sheet1"); String
+		 * pythoncode=testData.get(int1).get("pythoncode"); // Column heading
+		 * output=testData.get(int1).get("result"); // Column heading expmsg=output;
+		 * System.out.println("*************** Excel Value "+pythoncode);
+		 * treepage.userInput1(pythoncode);
+		 * System.out.println("*************** UserInput1"+output);
+		 * treepage.clickOnRun();
+		 * 
+		 * }
+		 */
+		/*
+		 * @Then("user should get alert in tree") public void
+		 * user_should_get_alert_in_tree() throws InterruptedException {
+		 * 
+		 * Loggers.info("run button click for invalid code"); Alert alert
+		 * =driver.switchTo().alert(); WebDriverWait w = new
+		 * WebDriverWait(driver,Duration.ofSeconds(5));
+		 * if(w.until(ExpectedConditions.alertIsPresent())==null)
+		 * System.out.println("alert not exist"); else
+		 * System.out.println("Alert exists"); alert.accept(); DriverFactory.NavBack();
+		 * //Thread.sleep(3000); }
+		 */
 	
-	}
-
-	@Then("user should get alert in tree")
-	public void user_should_get_alert_in_tree()  throws InterruptedException {
-
-		Loggers.info("run button click for invalid code");
-		Alert alert =driver.switchTo().alert();
-		WebDriverWait w = new WebDriverWait(driver,Duration.ofSeconds(5));
-		if(w.until(ExpectedConditions.alertIsPresent())==null)
-			System.out.println("alert not exist");
-		else
-			System.out.println("Alert exists");
-		alert.accept();
-		DriverFactory.NavBack();
-		//Thread.sleep(3000);   
-	}
-	
-	/*@Given("user select tree operation page")
-	public void user_select_tree_operation_page() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}
-
-	@Given("user select practice questions in tree")
-	public void user_select_practice_questions_in_tree() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}
-
-	@Given("navigate back to login page from tree")
-	public void navigate_back_to_login_page_from_tree() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}*/
-
-
+		
+//	/*@Given("user select tree operation page")
+//	public void user_select_tree_operation_page() {
+//	    // Write code here that turns the phrase above into concrete actions
+//	    throw new io.cucumber.java.PendingException();
+//	}
+//
+//	@Given("user select practice questions in tree")
+//	public void user_select_practice_questions_in_tree() {
+//	    // Write code here that turns the phrase above into concrete actions
+//	    throw new io.cucumber.java.PendingException();
+//	}
+//
+//	@Given("navigate back to login page from tree")
+//	public void navigate_back_to_login_page_from_tree() {
+//	    // Write code here that turns the phrase above into concrete actions
+//	    throw new io.cucumber.java.PendingException();
+//	}*/
+//
+//
 }
