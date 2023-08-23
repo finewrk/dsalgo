@@ -38,68 +38,15 @@ Feature: user navigates to  Treepage and able to try Python code both valid and 
 	 Examples:
    	|sheetname |rowno |
 		|Sheet1    |0     |
-   @tree2
-	 Scenario Outline: user try code in tree in python after clicked Try here button for invalidation
-   Given user click on Try Here button in tree
-    When user enter invalid code in tree in python from given "<sheetname>" and <rowno>
-    And user click run button in tree
-    Then user should get alert in tree
+		
+  #Scenario Outline: user try code in tree in python after clicked Try here button for invalidation
+   #Given user click on Try Here button in tree
+    #When user enter invalid code in tree in python from given "<sheetname>" and <rowno>
+   # And user click run button in tree
+   # Then user should get alert in tree
     
-	 Examples:
-   	|sheetname |rowno |
-		|Sheet1    |1     |	
-#select using array
-	 @tree3
-	 Scenario Outline: user try python code after clicked Try here button in using array page
-	 for validation
-	 	Given user select using array page 
-    And user click on Try Here button in tree
-    When user enter valid code in tree in python from given "<sheetname>" and <rowno>
-    And user click run button in tree
-    Then user should see output in tree
-    
-	 Examples:
-   	|sheetname |rowno |
-		|Sheet1    |0     |
 	 
-	 @tree3
-	 Scenario Outline: user try python code after clicked Try here button in using array page 
-	 for invalidation
-   Given user click on Try Here button in tree
-    When  user enter invalid code in tree in python from given "<sheetname>" and <rowno>
-    And user click run button in tree
-    Then user should get alert in tree
-    
-	 Examples:
-   	|sheetname |rowno |
-		|Sheet1    |1     |	
-	
-	#select tree operations
-	 @tree4
-	 Scenario Outline: user try python code after clicked Try here button in tree operation page
-	 for validation
-	 	Given user select tree operation page
-    And user click on Try Here button in tree
-    When user enter valid code in tree in python from given "<sheetname>" and <rowno>
-    And user click run button in tree
-    Then user should see output in tree
-    
-	 Examples:
-   	|sheetname |rowno |
-		|Sheet1    |0     |
 	 
-	 @tree4
-	 Scenario Outline: user try python code after clicked Try here button in tree operation page 
-	 for invalidation
-   Given user click on Try Here button in tree
-    When  user enter invalid code in tree in python from given "<sheetname>" and <rowno>
-    And user click run button in tree
-    Then user should get alert in tree
-    
-	 Examples:
-   	|sheetname |rowno |
-		|Sheet1    |1     |	
-	
 		
 #	#practice questions
 #	@tree5

@@ -3,7 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="stepdefinition.HelloTest"/>
+      <class name="stepdefinition.Launch_SD"/>
+      <class name="stepdefinition.Registration_SD"/>
+      <class name="stepdefinition.Login_SD"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
